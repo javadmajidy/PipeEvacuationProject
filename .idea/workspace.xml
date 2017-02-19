@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="405e9643-b754-414e-b80e-f71340c3f81e" name="Default" comment="" />
+    <list default="true" id="405e9643-b754-414e-b80e-f71340c3f81e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/arrowh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/divice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/fav-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/link-ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/msg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/nav-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/p8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/pagenate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/people.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/racket-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/images/social-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/Original PSD Information.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/css/theme-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/hover_pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/jquery.mixitup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/jquery.smint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/sampleThemeFlatstyle/w3layouts-license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PipeEvacuation.iml" afterPath="$PROJECT_DIR$/.idea/PipeEvacuation.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,37 +55,26 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PipeEvacuationProject" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="215" column="69" lean-forward="false" selection-start-line="215" selection-start-column="62" selection-end-line="215" selection-end-column="69" />
+            <state relative-caret-position="17">
+              <caret line="215" column="69" selection-start-line="215" selection-start-column="62" selection-end-line="215" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slimbox2.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/assets/js/slimbox2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="3228" lean-forward="false" selection-start-line="5" selection-start-column="3222" selection-end-line="5" selection-end-column="3228" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1412933688000" expanded="true" signature="552:571" ph="..." />
-                <marker date="1412933688000" expanded="true" signature="873:885" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/sampleThemeCreativeBranding/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
-              <caret line="342" column="43" lean-forward="false" selection-start-line="342" selection-start-column="43" selection-end-line="342" selection-end-column="43" />
+              <caret line="342" column="43" selection-start-line="342" selection-start-column="43" selection-end-line="342" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -59,6 +90,16 @@
       <find>fadein</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/PipeEvacuation.iml" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -71,6 +112,16 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -88,15 +139,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PipeEvacuation" />
+              <option name="myItemId" value="PipeEvacuationProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PipeEvacuationProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PipeEvacuation" />
+              <option name="myItemId" value="PipeEvacuationProject" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -106,7 +164,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,17 +173,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\PipeEvacuationProject\Test" />
       <recent name="C:\Users\javad\PhpstormProjects\PipeEvacuation\Test\sampleTheme2" />
       <recent name="C:\Users\javad\PhpstormProjects\PipeEvacuation\Test\sampleTheme1" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -144,15 +196,17 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -183,37 +237,46 @@
       <option name="presentableId" value="Default" />
       <updated>1487255312970</updated>
       <workItem from="1487255315232" duration="1897000" />
+      <workItem from="1487515978988" duration="1308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1897000" />
+    <option name="totallyTimeSpent" value="3205000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16325037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16325037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -223,42 +286,65 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3655">
+          <caret line="215" column="69" selection-start-line="215" selection-start-column="62" selection-end-line="215" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/assets/js/slimbox2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/sampleThemeCreativeBranding/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5814">
+          <caret line="342" column="43" selection-start-line="342" selection-start-column="43" selection-end-line="342" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/assets/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/sampleThemeCreativeBranding/css/api.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/sampleThemeCreativeBranding/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="342" column="43" lean-forward="false" selection-start-line="342" selection-start-column="43" selection-end-line="342" selection-end-column="43" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/sampleThemeFlatstyle/js/html5shiv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/index.html">
+    <entry file="file://$PROJECT_DIR$/.idea/PipeEvacuation.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="215" column="69" lean-forward="false" selection-start-line="215" selection-start-column="62" selection-end-line="215" selection-end-column="69" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -266,12 +352,26 @@
     <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/assets/js/slimbox2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="3228" lean-forward="false" selection-start-line="5" selection-start-column="3222" selection-end-line="5" selection-end-column="3228" />
+          <caret line="5" column="3228" selection-start-line="5" selection-start-column="3222" selection-end-line="5" selection-end-column="3228" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1412933688000" expanded="true" signature="552:571" ph="..." />
-            <marker date="1412933688000" expanded="true" signature="873:885" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/sampleThemeBoss/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="215" column="69" selection-start-line="215" selection-start-column="62" selection-end-line="215" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/sampleThemeCreativeBranding/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="342" column="43" selection-start-line="342" selection-start-column="43" selection-end-line="342" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
