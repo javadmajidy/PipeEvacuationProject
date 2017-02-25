@@ -1,0 +1,24 @@
+/*body section Starts*/
+*{
+    margin: 0;
+}
+/*body section Ends*/
+
+/*Header Starts*/
+/*parallax effect Starts*/
+.pipeHeaderParallax {
+    /* The image used */
+    background-image: url("../pics/img_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 600px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*parallax effect Ends*/
+
+/*Header Ends*/

@@ -79,7 +79,7 @@ body {
 /* Header */
 /*-----------------------------------------------------------------------------------*/
 #header {
-  background: url("../img/header_bg.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
+  background: url("../img/Tehran Hamidiye Camp copy.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
   display: table;
   width: 100%;
 }
@@ -102,8 +102,43 @@ body {
   position: relative;
   z-index: 20;
 }
+/*.logo img {*/
+  /*margin-bottom: 15px;*/
+/*}*/
 .logo img {
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
+  left: 50%;
+  /* display: inline; */
+  position: absolute;
+  top: 70%;
+  margin-left: -151px;
+}
+.javadLogo {
+  position: absolute;
+  left: 50%;
+  margin-left: -108px;
+  top: 20px;
+  color: white;
+  font-family: b titr;
+  font-size: 50px;
+}
+.javadLogo2 {
+  left: 50%;
+  margin-left: -50px;
+  top: 70px;
+  color: white;
+  font-family: b titr;
+  font-size: 24px;
+  position: absolute;
+}
+.javadLogo3 {
+  left: 50%;
+  margin-left: -100px;
+  top: 120px;
+  color: white;
+  font-family: b titr;
+  font-size: 33px;
+  position: absolute;
 }
 p.site-slogan {
   color: #b1a5bd;
@@ -737,6 +772,7 @@ p.site-slogan {
   text-align: center;
   width: 100%;
   padding-bottom: 10px;
+  margin-top: 180px;
 }
 #hornav .navbar-nav {
   float: none;
