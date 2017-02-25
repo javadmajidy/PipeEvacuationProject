@@ -1,14 +1,18 @@
 /*body section Starts*/
 *{
     margin: 0;
+    box-sizing: border-box;
 }
 /*body section Ends*/
 
 /*Header Starts*/
 /*parallax effect Starts*/
+.pipeHeaderParallaxContainer {
+    border-bottom: 2px solid #d55959;
+}
 .pipeHeaderParallax {
     /* The image used */
-    background-image: url("../pics/img_parallax.jpg");
+    background-image: url("../pics/05.jpg");
 
     /* Set a specific height */
     min-height: 600px;
@@ -18,6 +22,36 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.pipeTitleBackground {
+    background-image: url("../pics/logo.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 50%;
+    margin-left: -151px;
+    top: 30%;
+    width: 302px;
+    height: 155px;
+    display: inline;
+}
+.pipeTitleHead {
+    font-family: "B Titr";
+    font-size: 42px;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+.pipeTitleLocation {
+    font-family: "B Yekan";
+    font-size: 28px;
+    color: white;
+    text-align: center;
+}
+.pipeTitleNumber {
+    font-family: "B Titr";
+    font-size: 32px;
+    color: white;
+    text-align: center;
 }
 /*parallax effect Ends*/
 
