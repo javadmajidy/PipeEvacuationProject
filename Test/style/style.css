@@ -1,14 +1,17 @@
 /*body section Starts*/
 *{
-    margin: 0;
     box-sizing: border-box;
+    margin: 0;
+}
+body{
+    direction: rtl;
 }
 /*body section Ends*/
 
 /*Header Starts*/
 /*parallax effect Starts*/
 .pipeHeaderParallaxContainer {
-    border-bottom: 2px solid #d55959;
+    border-bottom: 2px solid white;
 }
 .pipeHeaderParallax {
     /* The image used */
@@ -54,5 +57,37 @@
     text-align: center;
 }
 /*parallax effect Ends*/
+
+/*Menu Starts*/
+ul{
+    text-align: center;
+}
+ul li {
+    padding: 7px 8px 0 9px;
+    /* float: right; */
+    list-style-type: none;
+    text-align: center;
+    width: auto;
+    display: inline-block;
+}
+ul li:nth-last-child(n+2){
+    border-left: 2px #d8eaf0 solid;
+}
+ul li:hover{
+    background-color: #0000004d;
+}
+.pipeEvacuationTopNav{
+    background-color: #0b4d63;
+    margin-bottom: 5px;
+}
+
+ul li a{
+    color: #eee;
+    text-decoration: none;
+    font-family: "B Homa";
+    font-size: 18px;
+}
+
+/*Menu Ends*/
 
 /*Header Ends*/

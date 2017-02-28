@@ -1,0 +1,66 @@
+.row:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+[class*="pipeEvacuation-col-"] {
+    float: right;
+    padding-bottom: 1px;
+    width: 100%;
+}
+
+@media only screen and (min-width: 300px) {
+    .pipeEvacuation-col-M-0{width: 0;}
+    .pipeEvacuation-col-M-1 {width: 8.33%;}
+    .pipeEvacuation-col-M-2 {width: 16.66%;}
+    .pipeEvacuation-col-M-3 {width: 25%;}
+    .pipeEvacuation-col-M-4 {width: 33.33%;}
+    .pipeEvacuation-col-M-5 {width: 41.66%;}
+    .pipeEvacuation-col-M-6 {width: 50%;}
+    .pipeEvacuation-col-M-7 {width: 58.33%;}
+    .pipeEvacuation-col-M-8 {width: 66.66%;}
+    .pipeEvacuation-col-M-9 {width: 75%;}
+    .pipeEvacuation-col-M-10 {width: 83.33%;}
+    .pipeEvacuation-col-M-11 {width: 91.66%;}
+    .pipeEvacuation-col-M-12 {width: 100%;}
+    .MainHeaderlogoContainer{
+        float: left;
+    }
+}
+
+@media only screen and (min-width: 560px) {
+    .pipeEvacuation-col-T-0{width: 0;}
+    .pipeEvacuation-col-T-1 {width: 8.33%;}
+    .pipeEvacuation-col-T-2 {width: 16.66%;}
+    .pipeEvacuation-col-T-3 {width: 25%;}
+    .pipeEvacuation-col-T-4 {width: 33.33%;}
+    .pipeEvacuation-col-T-5 {width: 41.66%;}
+    .pipeEvacuation-col-T-6 {width: 50%;}
+    .pipeEvacuation-col-T-7 {width: 58.33%;}
+    .pipeEvacuation-col-T-8 {width: 66.66%;}
+    .pipeEvacuation-col-T-9 {width: 75%;}
+    .pipeEvacuation-col-T-10 {width: 83.33%;}
+    .pipeEvacuation-col-T-11 {width: 91.66%;}
+    .pipeEvacuation-col-T-12 {width: 100%;}
+    .MainHeaderlogoContainer{
+        float: left;
+    }
+}
+@media only screen and (min-width: 728px) {
+    .pipeEvacuation-col-D-0{width: 0;}
+    .pipeEvacuation-col-D-1 {width: 8.33%;}
+    .pipeEvacuation-col-D-2 {width: 16.66%;}
+    .pipeEvacuation-col-D-3 {width: 25%;}
+    .pipeEvacuation-col-D-4 {width: 33.33%;}
+    .pipeEvacuation-col-D-5 {width: 41.66%;}
+    .pipeEvacuation-col-D-6 {width: 50%;}
+    .pipeEvacuation-col-D-7 {width: 58.33%;}
+    .pipeEvacuation-col-D-8 {width: 66.66%;}
+    .pipeEvacuation-col-D-9 {width: 75%;}
+    .pipeEvacuation-col-D-10 {width: 83.33%;}
+    .pipeEvacuation-col-D-11 {width: 91.66%;}
+    .pipeEvacuation-col-D-12 {width: 100%;}
+    .MainHeaderlogoContainer{
+        float: right;
+    }
+}
