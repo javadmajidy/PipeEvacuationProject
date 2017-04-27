@@ -1,0 +1,7 @@
+User-agent: Google
+Disallow:
+
+User-agent: *
+Disallow: /
+
+ Sitemap: http://www.novintakhlie.ir/sitemap.xml

@@ -336,7 +336,7 @@ nav{
     /*border-bottom: 2px solid #f73d3d;*/
 }
 article{
-    height: 200px;
+    /*height: 200px;*/
 }
 
 /*Article Ends*/
@@ -351,7 +351,51 @@ article{
     /*border-bottom: 2px solid #f73d3d;*/
 }
 .pipeParalaxDescriptionContainer{
-    height: 200px;
+    /*height: 200px;*/
+}
+@media only screen and (min-width: 300px) {
+    .pipeEvacuationParalaxDescriptionImage{
+        background-image: url("../pics/08.jpg");
+        /* Set a specific height */
+        min-height: 250px;
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+@media only screen and (min-width: 1000px) {
+    .pipeEvacuationParalaxDescriptionImage{
+        background-image: url("../pics/08.jpg");
+        /* Set a specific height */
+        min-height: 220px;
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+.PEPDContentContainer{
+    padding: 18px;
+    text-align: center;
+    color: white;
+}
+[class*="PEDPIcon"]{
+    font-size: 33px;
+}
+.PEDPTitle{
+    font-family: "B Titr";
+    font-size: 18px;
+}
+.PEDPDescription{
+    text-align: right;
+    font-family: "B Mitra";
+    font-size: 15px;
 }
 
 /*Parallax Description Ends*/
@@ -367,7 +411,9 @@ article{
     /*border-bottom: 2px solid #f73d3d;*/
 }
 .pipeVideoContainer{
-    height: 200px;
+    /*height: 200px;*/
+    text-align: center;
+    padding-top: 5px;
 }
 
 /*Video Ends*/
@@ -399,7 +445,9 @@ article{
     /*border-bottom: 2px solid #f73d3d;*/
 }
 .pipeMapContainer{
-    height: 200px;
+    /*height: 200px;*/
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 /*Map Ends*/
@@ -409,10 +457,31 @@ article{
 /*Footer Starts*/
 
 footer{
-    height: 260px;
+    /*height: 260px;*/
     background-color: rgba(27, 36, 47, 1);
+    position: absolute;
+}
+.pipeEvacuationFooterContainer{
+    padding: 7px 0 25px 0;
+}
+.PEPFooterAbout{
+    color: white;
+    font-family: "B Yekan";
+    font-size: 18px;
+    text-align: right;
+}
+.PEPFooterCopyright{
+    color: white;
+    font-family: "B Titr";
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 /*Footer Ends*/
-
+.pipePhoneNumber{
+    text-align: center;
+    font-family: "B Titr";
+    font-size: 40px;
+}
 /*Main Content Ends*/

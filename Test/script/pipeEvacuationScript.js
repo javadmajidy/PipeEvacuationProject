@@ -43,6 +43,25 @@ $(document).ready(function () {
         x[slideIndex - 1].style.display = "block";
         dots[slideIndex - 1].className += " pipeGallaryDotsWhite";
     }
+
+    var list = [
+        'لوله بازکنی',
+        'تخلیه چاه و سینک',
+        'حفاری چاه',
+        'ترمیم و احیاء چاه ریزشی',
+        'لوله کشی آب و فاضلاب',
+        'تعویض کاسه توالت',
+        'رفع نم و بوی بد',
+        'باز و بست کردن درب چاه',
+        'تشخیص ترکیدگی لوله و نشت یابی',
+        'عایق کاری',
+        'کاشی کاری',
+        'سیمان کاری',
+        'لوله کشی',
+        'نصب و تعمیرات آبگرمکن/شوفاژ/پکیج',
+        'سرویس و نصب کولر آبی'
+    ]
+    javadCategoryController(3, list);
 });
 
 //Gallary Slider Ends

@@ -1,0 +1,119 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M512 0c-176.732 0-320 143.268-320 320 0 320 320 704 320 704s320-384 320-704c0-176.732-143.27-320-320-320zM512 516c-108.248 0-196-87.752-196-196s87.752-196 196-196 196 87.752 196 196-87.752 196-196 196zM388 320c0-68.483 55.517-124 124-124s124 55.517 124 124c0 68.483-55.517 124-124 124s-124-55.517-124-124z"
+        ],
+        "attrs": [],
+        "tags": [
+          "location",
+          "map-marker",
+          "pin"
+        ],
+        "defaultCode": 57587,
+        "grid": 16
+      },
+      "attrs": [],
+      "properties": {
+        "id": 310,
+        "order": 4,
+        "prevSize": 32,
+        "code": 59720,
+        "ligatures": "location2, map-marker2",
+        "name": "location2"
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 72
+    },
+    {
+      "icon": {
+        "paths": [
+          "M256 192l-128-128h-64v64l128 128zM320 0h64v128h-64zM576 320h128v64h-128zM640 128v-64h-64l-128 128 64 64zM0 320h128v64h-128zM320 576h64v128h-64zM64 576v64h64l128-128-64-64zM1010 882l-636.118-636.118c-18.668-18.668-49.214-18.668-67.882 0l-60.118 60.118c-18.668 18.668-18.668 49.214 0 67.882l636.118 636.118c18.668 18.668 49.214 18.668 67.882 0l60.118-60.118c18.668-18.668 18.668-49.214 0-67.882zM480 544l-192-192 64-64 192 192-64 64z"
+        ],
+        "attrs": [],
+        "tags": [
+          "magic-wand",
+          "wizard"
+        ],
+        "defaultCode": 57836,
+        "grid": 16
+      },
+      "attrs": [],
+      "properties": {
+        "id": 582,
+        "order": 3,
+        "prevSize": 32,
+        "code": 59799,
+        "ligatures": "magic-wand, wizard",
+        "name": "magic-wand"
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 151
+    },
+    {
+      "icon": {
+        "paths": [
+          "M320 768v-768h-128v768h-160l224 224 224-224h-160z",
+          "M448 0h576v128h-576v-128z",
+          "M448 192h448v128h-448v-128z",
+          "M448 384h320v128h-320v-128z",
+          "M448 576h192v128h-192v-128z"
+        ],
+        "attrs": [],
+        "tags": [
+          "sort-amount-desc",
+          "arrange"
+        ],
+        "defaultCode": 61004,
+        "grid": 16
+      },
+      "attrs": [],
+      "properties": {
+        "order": 2,
+        "id": 1777,
+        "prevSize": 32,
+        "code": 59981,
+        "ligatures": "sort-amount-desc, arrange6",
+        "name": "sort-amount-desc"
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 333
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 4473924,
+      "bgColor": 16777215
+    },
+    "historySize": 100,
+    "showCodes": true
+  }
+}
